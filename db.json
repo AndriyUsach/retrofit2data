@@ -1,0 +1,57 @@
+{
+  "students" : [
+    {
+      "id": 1,
+      "name": "Andriy",
+      "university": "KPI",
+      "faculty": "FBMI",
+      "group": "BS-92"
+    },
+    {
+      "id": 2,
+      "name": "Sasha",
+      "university": "KPI",
+      "faculty": "FBMI",
+      "group": "BS-91"
+    },
+    {
+      "id": 3,
+      "name": "Lena",
+      "university": "KPI",
+      "faculty": "FBMI",
+      "group": "BS-91"
+    },
+    {
+      "id": 4,
+      "name": "Bogdan",
+      "university": "KPI",
+      "faculty": "FBMI",
+      "group": "BS-92"
+    },
+    {
+      "id": 5,
+      "name": "Max",
+      "university": "KPI",
+      "faculty": "FBMI",
+      "group": "BS-93"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "lastName": "Repeta"
+    },
+    {
+      "id": 2,
+      "lastName": "Matviychuk"
+    },
+    {
+      "id": 3,
+      "lastName": "Davidko"
+    },
+    {
+      "id": 4,
+      "lastName": "Alhimova"
+    }
+  ]
+}
