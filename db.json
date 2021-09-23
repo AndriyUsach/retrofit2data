@@ -148,42 +148,5 @@
       "id": 12,
       "text": "Для знака водної стихії, плинність, мінливість ситуації є плюсом. А цього літа все хитко і швидкоплинний. Події останніх місяців зруйнували багато соціальні бар'єри, при цьому звівши між нами стіни реальні."
     }
-  ],
-  "students" : [
-    {
-      "id": 1,
-      "name": "Andriy",
-      "university": "KPI",
-      "faculty": "FBMI",
-      "group": "BS-92"
-    },
-    {
-      "id": 2,
-      "name": "Sasha",
-      "university": "KPI",
-      "faculty": "FBMI",
-      "group": "BS-91"
-    },
-    {
-      "id": 3,
-      "name": "Lena",
-      "university": "KPI",
-      "faculty": "FBMI",
-      "group": "BS-91"
-    },
-    {
-      "id": 4,
-      "name": "Bogdan",
-      "university": "KPI",
-      "faculty": "FBMI",
-      "group": "BS-92"
-    },
-    {
-      "id": 5,
-      "name": "Max",
-      "university": "KPI",
-      "faculty": "FBMI",
-      "group": "BS-93"
-    }
   ]
 }
